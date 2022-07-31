@@ -3,8 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elainerscosta/)
 
 
-![Elaine's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElaineCostadev&show_icons=true&theme=vision-friendly-dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElaineCostadev&layout=compact&langs_count=8&theme=vision-friendly-dark)](https://github.com/ElaineCostadev/github-readme-stats)
+![Elaine's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElaineCostadev&show_icons=true&theme=vision-friendly-dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElaineCostadev&layout=compact&langs_count=8&theme=vision-friendly-dark)](https://github.com/ElaineCostadev/github-readme-stats)
 
 <img align=right src="https://i.picasion.com/pic92/13a8c0ceb97af4af2aa55d42d52e514c.gif" width="150" height="150" border="solid 100"  alt="Imagem Elaine" />
 <br />
