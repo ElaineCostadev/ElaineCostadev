@@ -2,7 +2,11 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elainerscosta/)
 
+
 ![Elaine's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElaineCostadev&show_icons=true&theme=vision-friendly-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElaineCostadev&layout=compact&langs_count=8&theme=vision-friendly-dark)](https://github.com/ElaineCostadev/github-readme-stats)
+
+##
 
 ### Tecnologias que aprendi na Trybe
 
@@ -14,5 +18,7 @@
   <img align="center" alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   <img align="center" alt="Jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
 </div><br/>
+
+![Snake animation](https://github.com/ElaineCostadev/ElaineCostadev/blob/output/github-contribution-grid-snake.svg)
 
 Em constante aprendizado
