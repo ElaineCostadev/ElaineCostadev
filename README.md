@@ -6,6 +6,12 @@
 <!-- <img align="center" alt="Header" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/header.png?raw=true"/> -->
 </div>
 
+
+![ben-white-gEKMstKfZ6w-unsplash](https://user-images.githubusercontent.com/98190168/219795045-22ab4ca2-bef2-4e70-b170-3163b405e4d7.jpg)
+
+
+
+
 - 👨🏽‍💻 Estou estudando **Orientação a objetos** para conseguir escrever códigos melhores e mais reutilizáveis;
 <!-- - 🌱 Estou aprendendo como fazer testes de integração nas minhas próprias **API**;  -->
 - 💼 Estou em busca de conhecimento para evoluir na minha carreira de desenvolvedora e na vida;
