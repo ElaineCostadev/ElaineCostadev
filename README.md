@@ -47,7 +47,7 @@
   <tr align="center">
     <td display="flex">
       <img align="center" alt="git" src="images/tools/git.png" width="40px"/>
-      <img align="center" alt="macos" src="images/tools/mac.png" width="40px"/>
+      <img align="center" alt="linux Ubuntu" src="images/tools/mac.png" width="40px"/>
       <img align="center" alt="vscode" src="images/tools/vscode.png" width="40px"/>
       <img align="center" alt="javascript" src="images/tools/javascript.svg" width="40px"/>
       <img align="center" alt="typescript" src="images/tools/typescript.svg" width="40px" />
@@ -55,20 +55,24 @@
       <img align="center" alt="docker" src="images/tools/docker.png" width="40px"/>
     </td>
     <td align="center">
-      <img align="center" alt="html5" src="images/tools/html.svg" width="40px"/>
-      <img align="center" alt="css3" src="images/tools/css.svg" width="40px"/>
-      <img align="center" alt="react" src="images/tools/react.svg" "/>
-      <a href="https://pt-br.reactjs.org/docs/getting-started.html" target="blank">
-      <img align="center" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40px/></a>
-      <img align="center" alt="redux" src="images/tools/redux.png" width="40px"/>
-      <img align="center" alt="jest" src="images/tools/jest.svg" width="40px"/>
-      <img align="center" alt="rtl" src="images/tools/rtl.png" width="40px"/>
+      <a href="https://html.spec.whatwg.org/multipage/" target="_blank">
+      <img align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40px" /></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference" target="_blank">
+      <img align="center" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40px" /></a>
+      <a href="https://pt-br.reactjs.org/docs/getting-started.html" target="_blank">
+      <img align="center" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40px"/></a>
+      <a href="https://redux.js.org/" target="_blank">                                                                      
+      <img align="center" alt="redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40px"/><p>Redux</p></a>
+      <a href="https://jestjs.io/pt-BR/docs/getting-started" target="_blank">
+      <img align="center" alt="jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40px"/><p>Jest</p></a>
+      <a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank"> 
+      <img align="center" alt="rtl" src="https://testing-library.com/img/octopus-64x64.png" width="40px"/><p>Testing Library</p></a>
     </td> 
     <td align="center">
       <img align="center" alt="nodejs" src="images/tools/nodejs.svg" width="40px"/>
+      <img align="center" alt="express" src="images/tools/express.svg" width="40px"/>
       <img align="center" alt="mysql" src="images/tools/mysql.svg" width="40px"/>
       <img align="center" alt="mongodb" src="images/tools/mongodb.svg" width="40px"/>
-      <img align="center" alt="express" src="images/tools/express.svg" width="40px"/>
       <img align="center" alt="mocha" src="images/tools/mocha.png" width="40px"/>
       <img align="center" alt="chai" src="images/tools/chai.png" width="40px"/>
       <img align="center" alt="sinon" src="images/tools/sinon.png" width="40px"/>
