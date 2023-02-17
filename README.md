@@ -1,6 +1,20 @@
-## Olá, muito prazer, eu sou a Elaine Costa 😃
+<!--- Olá, esse é meu readme, fique à vontade para utilizá-lo como quiser! -->
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elainerscosta/)
+## Olá, muito prazer, eu sou a Elaine Costa😃
+***Sou de São Paulo, Brasil, tenho 32 anos, e posso dizer que depois do meu primeiro "Hello World" muita coisa mudou*** 
+<div>
+<!-- <img align="center" alt="Header" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/header.png?raw=true"/> -->
+</div>
+
+- 👨🏽‍💻 Estou estudando **Orientação a objetos** para conseguir escrever códigos melhores e mais reutilizáveis;
+<!-- - 🌱 Estou aprendendo como fazer testes de integração nas minhas próprias **API**;  -->
+- 💼 Estou em busca de conhecimento para evoluir na minha carreira de desenvolvedora e na vida;
+- 🚀 E minha meta é construir uma carreira sólida na área de Tecnologia, com foco no Front-End e Full-Stack 
+
+<!-- - 📝 Veja meu Curriculum Vitae <a href="https://gitconnected.com/johnatas-henrique/resume" target="_blank">clicando aqui</a> para mais informações. -->
+- Entre em contato comigo, por email - elainerscosta@hotmal.com ou [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elainerscosta/)
+-----
+
 
 
 ![Elaine's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElaineCostadev&show_icons=true&theme=vision-friendly-dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElaineCostadev&layout=compact&langs_count=8&theme=vision-friendly-dark)](https://github.com/ElaineCostadev/github-readme-stats)
@@ -9,8 +23,9 @@
 <br />
 
 ##
+-----
 
-### Tecnologias que aprendi na Trybe
+### Tecnologias que aprendi e busco me aprimorar
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -24,4 +39,11 @@
 ![Snake animation](https://github.com/ElaineCostadev/ElaineCostadev/blob/output/github-contribution-grid-snake.svg)
 
 <h3 align="center">Em busca do melhor que a vida e a tecnologia podem oferecer </h3>
+
+<div>
+<a href="https://stars.github.com/nominate/" target="_blank"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20useful&color=blue"/></a><br />
+<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=elainecostadev"/>
+<img alt="Stars" src="https://img.shields.io/github/stars/elainecostadev?style=social"/>
+<img alt="Followers" src="https://img.shields.io/github/followers/elainecostadev?style=social"/>
+</div>
 
