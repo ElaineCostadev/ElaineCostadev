@@ -6,10 +6,7 @@
 <!-- <img align="center" alt="Header" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/header.png?raw=true"/> -->
 </div>
 
-
-![ben-white-gEKMstKfZ6w-unsplash](https://user-images.githubusercontent.com/98190168/219795045-22ab4ca2-bef2-4e70-b170-3163b405e4d7.jpg)
-
-
+<img align="center" alt="Mao segurando mundo ao por-do-sol" src="https://user-images.githubusercontent.com/98190168/219797182-8b8c9592-9b8f-416b-a566-7f26b2b025ad.jpg" width="1000" height="300" >
 
 
 - 👨🏽‍💻 Estou estudando **Orientação a objetos** para conseguir escrever códigos melhores e mais reutilizáveis;
@@ -18,10 +15,8 @@
 - 🚀 E minha meta é construir uma carreira sólida na área de Tecnologia, com foco no Front-End e Full-Stack 
 
 <!-- - 📝 Veja meu Curriculum Vitae <a href="https://gitconnected.com/johnatas-henrique/resume" target="_blank">clicando aqui</a> para mais informações. -->
-- Entre em contato comigo, por email - elainerscosta@hotmal.com ou [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elainerscosta/)
+- Entre em contato comigo, por email - elainerscosta@hotmal.com ou mande uma mensagem no [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elainerscosta/)
 -----
-
-
 
 ![Elaine's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElaineCostadev&show_icons=true&theme=vision-friendly-dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElaineCostadev&layout=compact&langs_count=8&theme=vision-friendly-dark)](https://github.com/ElaineCostadev/github-readme-stats)
 
@@ -42,14 +37,58 @@
   <img align="center" alt="Jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
 </div><br/>
 
+
+<table align="center">
+  <tr>
+    <th>Languages & Tools</th>
+    <th>Front-End</th> 
+    <th>Back-End</th>
+  </tr>
+  <tr align="center">
+    <td display="flex">
+      <img align="center" alt="git" src="images/tools/git.png" width="40px"/>
+      <img align="center" alt="macos" src="images/tools/mac.png" width="40px"/>
+      <img align="center" alt="vscode" src="images/tools/vscode.png" width="40px"/>
+      <img align="center" alt="javascript" src="images/tools/javascript.svg" width="40px"/>
+      <img align="center" alt="typescript" src="images/tools/typescript.svg" width="40px" />
+      <img align="center" alt="python" src="images/tools/python.png" width="40px" />
+      <img align="center" alt="docker" src="images/tools/docker.png" width="40px"/>
+    </td>
+    <td align="center">
+      <img align="center" alt="html5" src="images/tools/html.svg" width="40px"/>
+      <img align="center" alt="css3" src="images/tools/css.svg" width="40px"/>
+      <img align="center" alt="react" src="images/tools/react.svg" "/>
+      <a href="https://pt-br.reactjs.org/docs/getting-started.html" target="_blank">
+      <img align="center" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40px/></a>
+      <img align="center" alt="redux" src="images/tools/redux.png" width="40px"/>
+      <img align="center" alt="jest" src="images/tools/jest.svg" width="40px"/>
+      <img align="center" alt="rtl" src="images/tools/rtl.png" width="40px"/>
+    </td> 
+    <td align="center">
+      <img align="center" alt="nodejs" src="images/tools/nodejs.svg" width="40px"/>
+      <img align="center" alt="mysql" src="images/tools/mysql.svg" width="40px"/>
+      <img align="center" alt="mongodb" src="images/tools/mongodb.svg" width="40px"/>
+      <img align="center" alt="express" src="images/tools/express.svg" width="40px"/>
+      <img align="center" alt="mocha" src="images/tools/mocha.png" width="40px"/>
+      <img align="center" alt="chai" src="images/tools/chai.png" width="40px"/>
+      <img align="center" alt="sinon" src="images/tools/sinon.png" width="40px"/>
+    </td>
+  </tr>
+</table>
+
 ![Snake animation](https://github.com/ElaineCostadev/ElaineCostadev/blob/output/github-contribution-grid-snake.svg)
 
 <h3 align="center">Em busca do melhor que a vida e a tecnologia podem oferecer </h3>
 
 <div>
-<a href="https://stars.github.com/nominate/" target="_blank"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20useful&color=blue"/></a><br />
-<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=elainecostadev"/>
+<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=elainecostadev&style=plastic&color=orange"/>
+</div>
+
+<!---
+<div>
+<a href="https://stars.github.com/nominate/" target="_blank"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20useful&color=blue"/></a> <br />
 <img alt="Stars" src="https://img.shields.io/github/stars/elainecostadev?style=social"/>
 <img alt="Followers" src="https://img.shields.io/github/followers/elainecostadev?style=social"/>
 </div>
+-->
 
