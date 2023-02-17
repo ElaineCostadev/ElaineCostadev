@@ -15,7 +15,7 @@
 - 🚀 E minha meta é construir uma carreira sólida na área de Tecnologia, com foco no Front-End e Full-Stack 
 
 <!-- - 📝 Veja meu Curriculum Vitae <a href="https://gitconnected.com/johnatas-henrique/resume" target="_blank">clicando aqui</a> para mais informações. -->
-- Entre em contato comigo, por email - elainerscosta@hotmal.com ou mande uma mensagem no [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elainerscosta/)
+- Entre em contato comigo, por email [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=outlook&logoColor=white)](elainerscosta@hotmal.com) ou mande uma mensagem no [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elainerscosta/)
 -----
 
 ![Elaine's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElaineCostadev&show_icons=true&theme=vision-friendly-dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElaineCostadev&layout=compact&langs_count=8&theme=vision-friendly-dark)](https://github.com/ElaineCostadev/github-readme-stats)
