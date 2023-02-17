@@ -58,7 +58,7 @@
       <img align="center" alt="html5" src="images/tools/html.svg" width="40px"/>
       <img align="center" alt="css3" src="images/tools/css.svg" width="40px"/>
       <img align="center" alt="react" src="images/tools/react.svg" "/>
-      <a href="https://pt-br.reactjs.org/docs/getting-started.html" target="_blank">
+      <a href="https://pt-br.reactjs.org/docs/getting-started.html" target="blank">
       <img align="center" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40px/></a>
       <img align="center" alt="redux" src="images/tools/redux.png" width="40px"/>
       <img align="center" alt="jest" src="images/tools/jest.svg" width="40px"/>
