@@ -24,11 +24,10 @@
 <img align=right src="https://i.picasion.com/pic92/13a8c0ceb97af4af2aa55d42d52e514c.gif" width="150" height="150" border="solid 100"  alt="Imagem Elaine" />
 <br />
 
-##
 -----
 
-### Tecnologias que aprendi e busco me aprimorar
-
+### Tecnologias que aprendi e busco aprimorar
+<!-- 
 <div style="display: inline_block"><br/>
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -36,7 +35,7 @@
   <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   <img align="center" alt="Jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
-</div><br/>
+</div><br/> -->
 
 <!--  align="center"  -->
 
