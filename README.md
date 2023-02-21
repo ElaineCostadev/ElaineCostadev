@@ -13,7 +13,7 @@
 <!-- - 🌱 Estou aprendendo como fazer testes de integração nas minhas próprias **API**;  -->
 - 💼 Estou em busca de conhecimento para evoluir na minha carreira de desenvolvedora e na vida;
 - 🚀 E minha meta é construir uma carreira sólida na área de Tecnologia, com foco no Front-End e Full-Stack
-- :star2: Busco melhorar em diversos aspectos, como profissional e como pessoa.
+- :recycle: Procuro uma vida sustentável e com qualidade de vida - Também gosto de assuntos sobre :star2: Desenvolvimento Pessoal :star2:, :moneybag: Investimentos e Mercado Financeiro :money_with_wings:  e :deciduous_tree: Plantinhas :deciduous_tree:
 
 <!-- - 📝 Veja meu Curriculum Vitae <a href="https://gitconnected.com/johnatas-henrique/resume" target="_blank">clicando aqui</a> para mais informações. -->
 - Entre em contato comigo, por email <a href ="mailto:elainerscosta@hotmal.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a> ou mande uma mensagem no [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elainerscosta/)
