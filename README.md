@@ -12,7 +12,8 @@
 - 👨🏽‍💻 Estou estudando **Orientação a objetos** para conseguir escrever códigos melhores e mais reutilizáveis;
 <!-- - 🌱 Estou aprendendo como fazer testes de integração nas minhas próprias **API**;  -->
 - 💼 Estou em busca de conhecimento para evoluir na minha carreira de desenvolvedora e na vida;
-- 🚀 E minha meta é construir uma carreira sólida na área de Tecnologia, com foco no Front-End e Full-Stack 
+- 🚀 E minha meta é construir uma carreira sólida na área de Tecnologia, com foco no Front-End e Full-Stack
+- :star2: Busco melhorar em diversos aspectos, como profissional e como pessoa.
 
 <!-- - 📝 Veja meu Curriculum Vitae <a href="https://gitconnected.com/johnatas-henrique/resume" target="_blank">clicando aqui</a> para mais informações. -->
 - Entre em contato comigo, por email <a href ="mailto:elainerscosta@hotmal.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a> ou mande uma mensagem no [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elainerscosta/)
@@ -37,48 +38,73 @@
   <img align="center" alt="Jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
 </div><br/>
 
+<!--  align="center"  -->
 
 <table align="center">
   <tr>
-    <th>Languages & Tools</th>
-    <th>Front-End</th> 
-    <th>Back-End</th>
+    <th >Languages & Tools</th>
+    <th >Front-End</th> 
+    <th >Back-End</th>
   </tr>
-  <tr align="center">
-    <td display="flex">
-      <img align="center" alt="git" src="images/tools/git.png" width="40px"/>
-      <img align="center" alt="linux Ubuntu" src="images/tools/mac.png" width="40px"/>
-      <img align="center" alt="vscode" src="images/tools/vscode.png" width="40px"/>
-      <img align="center" alt="javascript" src="images/tools/javascript.svg" width="40px"/>
-      <img align="center" alt="typescript" src="images/tools/typescript.svg" width="40px" />
-      <img align="center" alt="python" src="images/tools/python.png" width="40px" />
-      <img align="center" alt="docker" src="images/tools/docker.png" width="40px"/>
+  <tr  align="center">
+    <td >
+      <a href="https://www.git-scm.com/doc" target="_blank">
+      <img align="center" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="70px" height="50px" /><a/>
+      <br>
+      <a href="https://help.ubuntu.com/20.04/ubuntu-help/index.html" target=_blank>
+      <img align="end" alt="linux Ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="70px" height="50px"/><p>Linux</p><a/>
+      <br>
+      <a href="https://code.visualstudio.com/docs" target="_blank">
+      <img align="center" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="70px" height="50px"/><a/>
+      <br>
+      <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
+      <img align="center" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70px" height="50px"/><p>Javascript</p><a/>
+      <a href="https://www.typescriptlang.org/docs/" target="_blank">
+      <img align="center" alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="70px" height="50px"/><p>Typescript</p><a/>
+      <a href="https://www.python.org/doc/" target="_blank">
+      <img align="center" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="70px" height="70px"/><a/>
+      <a href="https://docs.docker.com/" target="_blank">
+      <img align="center" alt="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="70px" height="70px"/>
     </td>
-    <td align="center">
+    <td width="40%">
       <a href="https://html.spec.whatwg.org/multipage/" target="_blank">
-      <img align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40px" /></a>
+      <img align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="70px" height="70px"/></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference" target="_blank">
-      <img align="center" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40px" /></a>
+      <img align="center" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="70px" height="70px"/></a>
+      <br>
       <a href="https://pt-br.reactjs.org/docs/getting-started.html" target="_blank">
-      <img align="center" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40px"/></a>
+      <img align="center" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="70px" height="70px"/></a>
+      <br>
       <a href="https://redux.js.org/" target="_blank">                                                                      
-      <img align="center" alt="redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40px"/><p>Redux</p></a>
+      <img align="center" alt="redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="70px" height="70px"/><p>Redux</p></a>
       <a href="https://jestjs.io/pt-BR/docs/getting-started" target="_blank">
-      <img align="center" alt="jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40px"/><p>Jest</p></a>
+      <img align="center" alt="jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="70px" height="50px"/><p>Jest</p></a>
       <a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank"> 
-      <img align="center" alt="rtl" src="https://testing-library.com/img/octopus-64x64.png" width="40px"/><p>Testing Library</p></a>
+      <img align="center" alt="rtl" src="https://testing-library.com/img/octopus-64x64.png" width="70px" height="50px"/><p>Testing Library</p></a>
     </td> 
-    <td align="center">
-      <img align="center" alt="nodejs" src="images/tools/nodejs.svg" width="40px"/>
-      <img align="center" alt="express" src="images/tools/express.svg" width="40px"/>
-      <img align="center" alt="mysql" src="images/tools/mysql.svg" width="40px"/>
-      <img align="center" alt="mongodb" src="images/tools/mongodb.svg" width="40px"/>
-      <img align="center" alt="mocha" src="images/tools/mocha.png" width="40px"/>
-      <img align="center" alt="chai" src="images/tools/chai.png" width="40px"/>
-      <img align="center" alt="sinon" src="images/tools/sinon.png" width="40px"/>
-    </td>
+    <td width="33%" >
+      <a href="https://nodejs.org/en/docs/" target="_blank">
+      <img align="center" alt="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="90px" height="80px"/><a/>
+      <a href="https://expressjs.com/" target="_blank">
+      <img align="center" alt="express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="90px" height="80px"/><a/>
+      <br>
+      <a href="https://dev.mysql.com/doc/" target="_blank">
+      <img align="center" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="70px" height="70px"/><a/>
+      <a href="https://www.mongodb.com/docs/" target="_blank"> 
+      <img align="center" alt="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="70px" height="70px"/><a/>
+      <a href="https://mochajs.org/" target="_blank">
+      <img align="center" alt="mocha" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" width="70px" height="70px"/><a/>
+      <br>
+      <br>
+      <a href="https://www.chaijs.com/" target="_blank">
+      <img align="center" alt="chai"  src="https://imgs.search.brave.com/jlxo_0CD0k5rfvzrM4ZeWwZqBGa6CA3KJoN6iQfpdFE/rs:fit:474:237:1/g:ce/aHR0cHM6Ly9yZXBv/c2l0b3J5LWltYWdl/cy5naXRodWJ1c2Vy/Y29udGVudC5jb20v/MjkzMTExMS9jMzQy/OGU4MC02NWQxLTEx/ZTktODMyZS05YTA1/NzUyOWE4NDk" width="70px" height="70px"/><p>Chai</p><a/>
+      <br>
+      <a href="https://sinonjs.org" target="_blank">
+      <img align="center" alt="Sinon.JS" src="https://sinonjs.org/assets/images/logo.png" width="70px" height="70px"/><p>Sinon</p><a/>
+    </td >
   </tr>
 </table>
+
 
 ![Snake animation](https://github.com/ElaineCostadev/ElaineCostadev/blob/output/github-contribution-grid-snake.svg)
 
