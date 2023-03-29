@@ -104,6 +104,32 @@
   </tr>
 </table>
 
+<!--
+<div>
+<div>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ifn52typ2yq3svn4vbvrat3ehq)
+<img align="right" alt="Spotify list" width="200px" src="https://spotify-github-profile.vercel.app/api/view?uid=31ifn52typ2yq3svn4vbvrat3ehq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile"/>
+
+
+<img align="right" alt="Spotify list" width="200px" src="https://spotify-recently-played-readme.vercel.app/api?user=22lih5eniohc7dawfxohlo7wy&count=8"/>
+
+<img align="right" alt="Spotify" width="200px" height="260px" src="https://spotify-github-profile.vercel.app/api/view?uid=22lih5eniohc7dawfxohlo7wy&cover_image=true&theme=default"/>
+</div>
+<div>
+
+
+:headphones: <b>Ouça a Trybe-Fi: a rádio lofi da Trybe!</b> <br /><br />
+<a href="https://www.youtube.com/watch?v=pnGdK_SQlw8" target="_blank"><img width="350px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/trybefi.png" alt="Trybe-Fi"></a><br />
+</div>
+
+<img alt="spotify-github-profile" src="https://spotify-github-profile.vercel.app/api/view?uid=31ifn52typ2yq3svn4vbvrat3ehq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile"/>
+
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ifn52typ2yq3svn4vbvrat3ehq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31ifn52typ2yq3svn4vbvrat3ehq&redirect=true)
+</div>
+-->
+
+
 
 ![Snake animation](https://github.com/ElaineCostadev/ElaineCostadev/blob/output/github-contribution-grid-snake.svg)
 
